@@ -1,1 +1,0 @@
-del *.exe *.txt *.obj *.pdb *.res *.spv *.ilk *.dmp *.bak

@@ -1,6 +1,0 @@
-
-#include <windows.h>
-
-#include "Vk.h"
-
-MYICON ICON Anjaneya.ico 
